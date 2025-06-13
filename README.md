@@ -1,4 +1,4 @@
-# 🚀 My Linux Shell HackerRank Solutions: Unlocking the Power of the Command Line! 🐧
+# 🚀 My Linux Shell HackerRank Solutions! 🐧
 This repository contains my solutions to various Linux Shell scripting challenges from HackerRank. Organized by topic, these scripts demonstrate practical use of commands like `head`, `awk`, `sed`, loops, conditionals, and more. Each script includes comments to illustrate my approach and learning process.
 
 ## 🌟 What's Inside? 
